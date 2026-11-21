@@ -1,1 +1,1 @@
-# my daily plan 
+# my-daily-planner.
